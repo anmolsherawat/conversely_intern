@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback, useMemo } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import type { ReviewItem, ReviewFilters, ReviewSort } from '../types/review';
 import { ReviewService } from '../services/ReviewService';
 

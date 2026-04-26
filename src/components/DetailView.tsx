@@ -3,7 +3,6 @@ import { X, CheckCircle, Clock, AlertTriangle, MessageSquare, ExternalLink, User
 import type { ReviewItem } from '../types/review';
 import { Button } from './ui/Button';
 import { Badge } from './ui/Badge';
-import { cn } from '../utils/cn';
 import { format } from 'date-fns';
 
 interface DetailViewProps {
